@@ -1,0 +1,40 @@
+newmtl fantasy_sea_keep:mat0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 307.42
+newmtl fantasy_sea_keep:mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 228.64
+newmtl fantasy_sea_keep:mat4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.53 0.53 0.53
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.00
+newmtl fantasy_sea_keep:mat6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 477.12
+newmtl fantasy_sea_keep:mat8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.25 0.25 0.25
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 240.76

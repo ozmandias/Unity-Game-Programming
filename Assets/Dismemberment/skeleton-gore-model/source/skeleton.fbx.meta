@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 2b5036bfbed8148b0a9bf10636f8bdc9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: backmuscles
+    100002: brain
+    100004: brestmuscles
+    100006: buttocks
+    100008: L_eye
+    100010: L_foot
+    100012: L_leg
+    100014: L_legbone
+    100016: L_leglowerBone
+    100018: L_lowerleg
+    100020: LarmBone
+    100022: Leftarm
+    100024: LeftForearm
+    100026: lefthand
+    100028: LforearmBone
+    100030: neckmuscles
+    100032: R_eye
+    100034: R_foot
+    100036: RarmBone
+    100038: RforearmBone
+    100040: Rightarm
+    100042: RightForearm
+    100044: Righthand
+    100046: Rleg
+    100048: Rlegbone
+    100050: Rlowerleg
+    100052: RlowerlegBone
+    100054: //RootNode
+    100056: skull
+    100058: torso1low
+    100060: torso1up
+    400000: backmuscles
+    400002: brain
+    400004: brestmuscles
+    400006: buttocks
+    400008: L_eye
+    400010: L_foot
+    400012: L_leg
+    400014: L_legbone
+    400016: L_leglowerBone
+    400018: L_lowerleg
+    400020: LarmBone
+    400022: Leftarm
+    400024: LeftForearm
+    400026: lefthand
+    400028: LforearmBone
+    400030: neckmuscles
+    400032: R_eye
+    400034: R_foot
+    400036: RarmBone
+    400038: RforearmBone
+    400040: Rightarm
+    400042: RightForearm
+    400044: Righthand
+    400046: Rleg
+    400048: Rlegbone
+    400050: Rlowerleg
+    400052: RlowerlegBone
+    400054: //RootNode
+    400056: skull
+    400058: torso1low
+    400060: torso1up
+    2100000: meshbase
+    2300000: backmuscles
+    2300002: brain
+    2300004: brestmuscles
+    2300006: buttocks
+    2300008: L_eye
+    2300010: L_foot
+    2300012: L_leg
+    2300014: L_legbone
+    2300016: L_leglowerBone
+    2300018: L_lowerleg
+    2300020: LarmBone
+    2300022: Leftarm
+    2300024: LeftForearm
+    2300026: lefthand
+    2300028: LforearmBone
+    2300030: neckmuscles
+    2300032: R_eye
+    2300034: R_foot
+    2300036: RarmBone
+    2300038: RforearmBone
+    2300040: Rightarm
+    2300042: RightForearm
+    2300044: Righthand
+    2300046: Rleg
+    2300048: Rlegbone
+    2300050: Rlowerleg
+    2300052: RlowerlegBone
+    2300054: skull
+    2300056: torso1low
+    2300058: torso1up
+    3300000: backmuscles
+    3300002: brain
+    3300004: brestmuscles
+    3300006: buttocks
+    3300008: L_eye
+    3300010: L_foot
+    3300012: L_leg
+    3300014: L_legbone
+    3300016: L_leglowerBone
+    3300018: L_lowerleg
+    3300020: LarmBone
+    3300022: Leftarm
+    3300024: LeftForearm
+    3300026: lefthand
+    3300028: LforearmBone
+    3300030: neckmuscles
+    3300032: R_eye
+    3300034: R_foot
+    3300036: RarmBone
+    3300038: RforearmBone
+    3300040: Rightarm
+    3300042: RightForearm
+    3300044: Righthand
+    3300046: Rleg
+    3300048: Rlegbone
+    3300050: Rlowerleg
+    3300052: RlowerlegBone
+    3300054: skull
+    3300056: torso1low
+    3300058: torso1up
+    4300000: torso1up
+    4300002: torso1low
+    4300004: Rleg
+    4300006: Rlegbone
+    4300008: Rlowerleg
+    4300010: RlowerlegBone
+    4300012: R_foot
+    4300014: L_leg
+    4300016: L_legbone
+    4300018: L_lowerleg
+    4300020: L_leglowerBone
+    4300022: L_foot
+    4300024: buttocks
+    4300026: neckmuscles
+    4300028: brestmuscles
+    4300030: Leftarm
+    4300032: LarmBone
+    4300034: LeftForearm
+    4300036: LforearmBone
+    4300038: lefthand
+    4300040: Rightarm
+    4300042: RarmBone
+    4300044: RightForearm
+    4300046: RforearmBone
+    4300048: Righthand
+    4300050: backmuscles
+    4300052: skull
+    4300054: L_eye
+    4300056: R_eye
+    4300058: brain
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meshbase
+    second: {fileID: 2100000, guid: 5d2bf9539e9d14641984ba50552a8275, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GameObjectView/GameObjectView.unity
+- path: Assets/Collision/Collision.unity
   isLoaded: 1
   isActive: 1
